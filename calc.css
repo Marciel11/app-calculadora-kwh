@@ -1,0 +1,28 @@
+    label {
+        text-align: left !important;
+        text-decoration: none !important;
+        color: #fff !important;
+        display: flex !important;
+        height: 25px !important;
+    }
+
+    span{
+        margin: auto;
+        color: #fff !important;
+        text-align: center !important;
+    }
+
+    button {
+        margin-left: 60px;
+        justify-content: center
+    }
+
+    .center-form {
+        margin-left: 565px;
+        justify-content: center
+    } 
+    .div-alert{
+        width: 50%;
+        color: black !important;
+    }
+
